@@ -47,8 +47,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yuvan-s-96/yuvan-s-96/output/snake.svg" alt="Snake animation" />
-
-###
