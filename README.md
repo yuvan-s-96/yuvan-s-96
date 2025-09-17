@@ -40,6 +40,9 @@
   <a href="https://medium.com/@yuvankumar.8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
+  <a href="https://yuvanvelkumarportfolio.netlify.app" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnIXmHIQ3y8ioovymysGVGCwr872oa5gCVg&s" height="35" alt="medium logo"  />
+  </a>
 </div>
 
 ###
