@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yuvan Velkumar and I'm a Artificial Intelligence and Data Science Undergrad.</h2>
+<h2 align="left">Hi 👋! My name is Yuvan Velkumar, and I have completed my undergraduate studies in Artificial Intelligence and Data Science. Currently, I am pursuing my master's in Data Science in University of Bath</h2>
 
 ###
 
